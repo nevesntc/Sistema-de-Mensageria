@@ -134,12 +134,3 @@ O sistema implementa encerramento gracioso para:
 - SIGINT
 
 Garantindo que todas as operações sejam finalizadas adequadamente.
-
-## 📈 Próximos Passos
-
-- Implementar persistência de dados
-- Adicionar autenticação e autorização
-- Implementar filas distribuídas
-- Adicionar monitoramento e métricas
-- Implementar cache
-- Adicionar documentação com Swagger 
